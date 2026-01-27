@@ -1,5 +1,4 @@
-# CC 106 – Application Development and Emerging Technology This repository contains projects created using Visual Studio Code and GitHub.
 
+## feature-task Branch Update
 
-## Experiment Branch Update
-This section was added for branch testing.
+Installing GitHub was challenging at first because of the setup process and learning new commands. I had to be patient and carefully follow each step to avoid errors. In the end, it helped me understand how version control works and why it’s important for managing projects.
